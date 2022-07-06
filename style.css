@@ -1,0 +1,255 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+.banner-section  {
+background-image: url(images/donation4.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+height: 635px;
+display: flex;
+justify-content: center;
+}
+.banner-section h1{
+    margin: 8px;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.banner-section p{
+    color: white;
+    text-align: center;
+}
+.banner-div{
+    margin-top: 100px;
+    
+}
+.banner-div {
+    text-align: center;
+    text-decoration: none;
+    
+}
+.banner-div a {
+    background-color: tomato;
+    padding: 8px 8px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+
+/* ---------------- */
+.donate-info{
+    margin-top: 30px;
+    text-align: center;
+}
+.donate-tk{
+   display: flex;
+   width: 50%;
+   justify-content: space-between;
+   text-align: center;
+   margin-left: 330px;
+}
+
+
+#focus {
+    border: 2px solid red;
+    background-color:rgb(250, 196, 196);
+    border-radius: 5px;
+    
+}
+.width20 {
+ margin: 15px;
+ width: 20%;
+ padding-top: 12px;
+ padding-bottom: 12px;
+ text-align: center;
+ background-color: aliceblue;
+}
+.donate-form{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+.input-field {
+    border: none;
+    width: 500px;
+    text-align: center;
+    padding: 8px 20px;
+}
+.donate-btn{
+    text-align: center;
+    
+    
+}
+.donate-btn button {
+    margin-top: 10px;
+    background-color: tomato;
+    padding: 14px 12px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    border: none;
+}
+
+/* ---------------- */
+.donate-plan{
+    margin: 70px 0px;
+}
+.donate-plan h1{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 900;
+}
+.donate-plan p{
+    color: black;
+    text-align: center;
+}
+.donate-container{
+    display: flex;
+    justify-content: center;
+    margin: 0 110px;
+    
+    
+}
+.donate-p-info {
+    width: 33%;
+    margin: 1%;
+    padding: 60px 15px;
+    border-radius: 5px;
+    
+}
+.donate-p-info p{
+    text-align: left;
+}
+#food {
+background-color:rgb(141, 238, 238)
+}
+#shelter{
+background-color:rgb(158, 179, 216)
+}
+#education {
+background-color: bisque;
+}
+.contribute {
+    display: flex;
+    margin: 20px 100px;
+}
+.half-width{
+    width: 50%;
+    padding: 40px;
+}
+.half-width h1{
+    font-size: 40px;
+    font-weight:bold;
+}
+.half-width p{
+    text-align: left;
+    color:black;
+}
+.half-width-img{
+    width: 90%;
+    height: 450px;
+    border-radius: 8px;
+}
+.contribute-btn{
+    font-size: 15px;
+    margin-top: 10px;
+    background-color: tomato;
+    padding: 14px 22px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    border: none;
+}
+.suvive {
+    margin-top: 20px;
+    display: flex;
+    margin: 20px 100px;
+}
+.update{
+   
+}
+.update h1{
+    margin-top: 50px;
+    font-size: 40px;
+    text-align: center;
+}
+.update p{
+    text-align: center;
+}
+.email2 {
+    text-align: center;
+}
+.email {
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    width: 40%;
+   
+}
+.email-container {
+    display: flex;
+    justify-content: center;
+    
+}
+.email-input{
+    border: none;
+    background-color: azure;
+    padding: 10px 45px;
+}
+.email-area{
+    padding: 50px;
+    background-color: rgb(221, 186, 175);
+    width: 50%;
+    text-align: center;
+}
+.email-btn {
+    background-color: tomato;
+    padding: 11px 72px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    border: none;
+}
+.patner {
+   
+}
+.patner-logo{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.patner-logo img{
+    width: 70px;
+    height: 20px;
+}
+.contacts {
+    text-align: center;
+}
+.icon-section{
+    
+    display: flex;
+    justify-content: center;
+}
+.icon {
+    width: 34px;
+    margin: 8px;
+    
+    
+}
+.section-footer {
+    margin-top: 120px;
+    background-color:tomato;
+    padding: 30px;
+}
+footer h4,p {
+   
+    text-align: center;
+    color: white
+}
